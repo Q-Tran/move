@@ -1,0 +1,14 @@
+* System
+** Find out why startup job is running on boot
+* Development envirnoment
+**
+** NVIM
+*** Get org mod for vim
+*** Map 'l' to 'w'
+*** Map 'h' to backwards word
+** Browser
+*** Replace Chrome with Firefox
+***** Learn vimperator
+**** adblock
+**** night view
+** Learn and customize TMUX

@@ -1,0 +1,41 @@
+/*
+ * Author: Van Tran
+ * Animeleaf general style page
+ * animeleaf.com/
+*/
+
+/* layout and spacing of the page */
+
+#header{
+}
+
+#body{
+}
+
+#footer{
+}
+
+#navbar{
+}
+
+
+/* Standardize colors and fonts*/
+
+h1{
+	color:black;
+	font-size:40px;
+}
+
+h2{
+	color:black;
+	font-size:30px;
+}
+
+p{
+
+	font-size:14px;
+}
+
+/* 
+.buttons{
+}
